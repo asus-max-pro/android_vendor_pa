@@ -1,24 +1,6 @@
 [
   {
     "remote":       "aospa",
-    "repository":   "AOSPA/android_device_asus_X00TD",
-    "target_path":  "device/asus/X00TD",
-    "revision":     "quartz"
-  },
-  {
-    "remote":       "aospa",
-    "repository":   "AOSPA/android_kernel_asus_sdm636",
-    "target_path":  "kernel/asus/sdm636",
-    "revision":     "quartz"
-  },
-  {
-    "remote":       "blobs",
-    "repository":   "proprietary_vendor_asus",
-    "target_path":  "vendor/asus",
-    "revision":     "quartz"
-  },
-  {
-    "remote":       "aospa",
     "repository":   "AOSPA/android_hardware_qcom_display",
     "target_path":  "hardware/qcom/display",
     "revision":     "quartz-8998"
